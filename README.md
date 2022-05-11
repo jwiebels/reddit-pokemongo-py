@@ -4,6 +4,7 @@ A script to post your Pokémon GO friend code in the relevant subbredit for find
 
 ## DISCLAIMER
 Please use respectfully in accordance with the Reddit API guidelines.
+I cannot be held liable for any damages incurred by using this script. This is a coding exercise for fun only.
 
 ## HOW TO
 1. Create a [Reddit](https://www.reddit.com/) user account.

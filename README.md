@@ -2,6 +2,9 @@
 
 A script to post your Pokémon GO friend code in the relevant subbredit for finding in-game friends, /r/PokemonGoFriends.
 
+## DISCLAIMER
+Please use respectfully in accordance with the Reddit API guidelines.
+
 ## HOW TO
 1. Create a [Reddit](https://www.reddit.com/) user account.
 2. Create a [new Reddit application](https://www.reddit.com/prefs/apps).
